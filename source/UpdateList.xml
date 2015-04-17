@@ -11,7 +11,7 @@
 	<Version>1.0</Version>
   </Application>
   <Files>
-	   <File Ver="8.3" Name="3d.exe.png" />
+	   <File Ver="8.8" Name="3d.exe.png" />
 	   <File Ver="4.7" Name="MEZboy.CustomTabControl.dll" />
   </Files>
 </AutoUpdater>
